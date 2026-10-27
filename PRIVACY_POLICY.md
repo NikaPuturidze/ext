@@ -1,6 +1,6 @@
 # Privacy Policy for Dispetcher Tools
 
-**Last Updated:** March 18, 2026
+**Last Updated:** October 27, 2026
 **Developer:** Upgaming
 
 ## 1. Overview
@@ -162,5 +162,3 @@ If you have questions or requests regarding this Privacy Policy, contact:
 
 **Upgaming**
 **Email:** [appvata@gmail.com](mailto:appvata@gmail.com)
-
-If you want, I can also turn this into a cleaner Chrome Web Store-ready version with stricter wording around permissions, storage, sharing, and host access.
